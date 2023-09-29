@@ -1,0 +1,41 @@
+h1,h3{
+    padding: 10px 10px 0px 24px;
+}
+a{
+    font-family: Arial;
+    color: black;
+}
+.ativo{
+    font-family: arial;;
+    color: green;
+    font-family: Arial;
+    font-size: large;
+}
+.ativo:hover{
+    font-style: unset;
+}
+tr, th{
+    border: 3px green solid;
+    background: lightgreen;
+    padding: 5px;
+}
+tr, th:hover{
+    background: lightgrey;
+}
+header{
+    padding: 10px 0px 20px 20px;
+}
+img{
+    size: 50;
+}
+div{
+    font-size: large;
+    font-family: Arial;
+    background: lightgreen;
+    border: 1px black solid;
+    width: auto;
+    height: 200px;
+}
+.form2{
+    float: left;
+}
